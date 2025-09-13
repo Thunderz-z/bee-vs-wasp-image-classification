@@ -8,8 +8,8 @@ pip install numpy opencv-python scikit-image scikit-learn matplotlib seaborn
 
 Step 2 : 
 1. Download the "Bee or Wasp?" dataset from Kaggle: [https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp]
-2. Extract the folders so that your dataset path matches:
-   ``` bee_wasp/kaggle_bee_vs_wasp/
+2. Extract the folders so that your dataset path matches:```
+     bee_wasp/kaggle_bee_vs_wasp/
         ├── bee1/
         ├── bee2/
         ├── wasp1/
